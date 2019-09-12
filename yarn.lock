@@ -6806,10 +6806,10 @@ jest@^24.9.0:
     import-local "^2.0.0"
     jest-cli "^24.9.0"
 
-jimp-compact@^0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/jimp-compact/-/jimp-compact-0.8.0.tgz#2a7831b9d0e3202678a0617dd9fd9a3ed5423886"
-  integrity sha512-X20NDmsndoplmKtws5fcZYPnRzdtP1vftKlZaiKmKQ3+LMSXLPGoOCPZlckVZg4DjZlPzDOjA+nj//TPFGxMQw==
+jimp-compact@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/jimp-compact/-/jimp-compact-0.8.1.tgz#57e69cc117d99b6aed6eb2ce132b60093633dfff"
+  integrity sha512-m9D/K5ODBCw2J7heEjqHFemIjXnmE7RFBmi6k179ifqsELRyuvLFvHmNI68bMlU8yGtFP952ynbFvXwpS1JtZw==
 
 js-levenshtein@^1.1.3:
   version "1.1.6"
